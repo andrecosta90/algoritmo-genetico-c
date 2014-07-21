@@ -12,8 +12,14 @@ Uma sugestão para os parâmetros de entrada seria:
 
 É apenas uma sugestão, não se limite somente à ela. Realize outros experimentos.
 
-##Comandos para compilar
+##Compilar
 
-NO WINDOWS: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida`
+Linux: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida -lm`
 
-NO LINUX: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida -lm`
+Windows: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida`
+
+##Executar
+
+Linux: `>> ./saida`
+
+Windows: `>> saida.exe`
