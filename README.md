@@ -12,14 +12,14 @@ Linux: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida -
 Windows: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida`
 
 
-
 ##Executar
 
 Linux: `>> ./saida`
 
 Windows: `>> saida.exe`
 
-##Sugestões de entrada:
+
+###Sugestões de entrada:
 
     * Total de individuos da populacao: 1000
     * Total de desecendentes a descartar: 100
