@@ -1,6 +1,6 @@
 ##Algoritmo Genético em C
 
-Implementação, na linguagem C, de um algoritmo genético capaz de buscar o ponto de mínimo em funções de duas variáveis.
+Implementação, na linguagem C, de um algoritmo genético (Genetic Algorithm)  capaz de buscar o ponto de mínimo em funções de duas variáveis.
 
 Os parametros a serem definidos pelo usuario sao empíricos, isto é, deve-se realizar diversos experimentos alternando/alterando os valores dos parâmetros a fim de encontrar um conjunto deles que otimize (minimize) determinada função.
 
