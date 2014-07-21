@@ -1,5 +1,4 @@
 ##Algoritmo Genético em C
-====================
 
 Implementação, na linguagem C, de um algoritmo genético capaz de buscar o ponto de mínimo em funções de duas variáveis.
 
