@@ -5,21 +5,23 @@ Implementação, na linguagem C, de um algoritmo genético capaz de buscar o pon
 Os parametros a serem definidos pelo usuario sao empíricos, isto é, deve-se realizar diversos experimentos alternando/alterando os valores dos parâmetros a fim de encontrar um conjunto deles que otimize (minimize) determinada função.
 
 
-##Compilar
+##Comandos
+
+###Compilar
 
 Linux: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida -lm`
 
 Windows: `>> gcc principal.c funcoes_benchmark.c gerador_numeros.c ag.c -o saida`
 
 
-##Executar
+###Executar
 
 Linux: `>> ./saida`
 
 Windows: `>> saida.exe`
 
 
-###Sugestões de entrada:
+####Sugestões de entrada:
 
     * Total de individuos da populacao: 1000
     * Total de desecendentes a descartar: 100
