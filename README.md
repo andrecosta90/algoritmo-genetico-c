@@ -15,8 +15,7 @@ Executar via `./saida.out`
 
 
 ## Sugestões de hiperparâmetros de entrada:
-
-    * Total de individuos da populacao: 1000
-    * Total de desecendentes a descartar: 100
-    * Total de geracoes a evoluir: 100
-    * Probabilidade de mutação: 0.1
+    + Total de individuos da populacao: 1000
+    + Total de desecendentes a descartar: 100
+    + Total de geracoes a evoluir: 100
+    + Probabilidade de mutação: 0.1
